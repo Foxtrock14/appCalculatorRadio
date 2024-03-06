@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">appCalculator</string>
+    <string name="label_text1">Numero:</string>
+    <string name="label_text2">"Numero: "</string>
+    <string name="suma">Suma</string>
+    <string name="Resta">resta</string>
+    <string name="resta">Resta</string>
+    <string name="Division">division</string>
+    <string name="Multiplicacion">multiplicacion</string>
+    <string name="multiplicacion">Multiplicacion</string>
+</resources>
